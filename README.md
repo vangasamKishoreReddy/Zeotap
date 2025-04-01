@@ -1,4 +1,4 @@
 # Zeotap
-Data Science Assignment: ECommerce Transactions Dataset
+Data Science Assignment: Ecommerce Transactions Dataset
 
 
